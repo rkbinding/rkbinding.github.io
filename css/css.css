@@ -309,6 +309,7 @@ section#locate {
 .footer {
   padding: 25px 0;
   text-align: center;
+  position:relative;
 }
 
 .footer span.copyright {
