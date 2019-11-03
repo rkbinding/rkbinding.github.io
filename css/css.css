@@ -331,3 +331,9 @@ section#locate {
 overflow:hidden;
 position:relative;
 }
+
+#shift 
+{
+margin-left:60%;
+margin-top:10px
+}
