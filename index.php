@@ -1,0 +1,1 @@
+<?php header( 'Location: /mail/contact_me.php' ) ;  ?>
